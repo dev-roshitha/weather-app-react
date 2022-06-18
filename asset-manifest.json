@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/weather-app-react.github.io/static/css/main.c005ae8f.css",
+    "main.js": "/weather-app-react.github.io/static/js/main.4b7d38ce.js",
+    "static/media/sunseth.jpg": "/weather-app-react.github.io/static/media/sunseth.46d2d785db2289daced4.jpg",
+    "index.html": "/weather-app-react.github.io/index.html",
+    "main.c005ae8f.css.map": "/weather-app-react.github.io/static/css/main.c005ae8f.css.map",
+    "main.4b7d38ce.js.map": "/weather-app-react.github.io/static/js/main.4b7d38ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c005ae8f.css",
+    "static/js/main.4b7d38ce.js"
+  ]
+}
